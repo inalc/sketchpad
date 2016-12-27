@@ -1,0 +1,62 @@
+div.image {
+  content: url('https://irp-cdn.multiscreensite.com/3d583ffd/dms3rep/multi/mobile/hVYHE21GSJWDTt1V1qyY_mililani_icons-02-300x300.png'); 
+}
+
+.square {
+  background-color: #818886;
+  margin: 1px;
+  display: inline-block;
+  width: 28px;
+  height: 28px;
+
+
+}
+
+.grid {
+  margin: 20px auto;
+  padding: 2px;
+  position: relative;
+}
+
+.container {
+  text-align: center;
+  position: relative;
+}
+
+#navbar {
+  position: relative;
+  margin-top: 5px;
+}
+
+button {
+  border: none;
+  background-color: #F8162A;
+  color: white;
+  border-radius: 10px;
+  padding: 5px 10px;
+  margin: 0 10px;
+  box-shadow: 5px 5px 4px #BC887B;
+  font-family: 'ABeeZee', sans-serif;;
+}
+
+button:hover {
+  cursor: pointer;
+  background-color: #319DA9;
+}
+
+div h1 {
+  margin-top: 10px;
+  font-size: 40px;
+  font-family: 'Pacifico', cursive;
+  color: #F8162A;
+  opacity: 75%;
+}
+
+div .grid {
+  border: 45px solid #ef2222;
+  padding: 10px;
+  padding-bottom: 90px;
+  border-radius: 10%;
+  background-color: #818886;
+  box-shadow: 10px 10px 10px #BC887B;
+}
